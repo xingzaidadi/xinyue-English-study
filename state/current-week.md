@@ -31,14 +31,15 @@ Tasks:
 - [x] Add daily tracking files.
 - [x] Add first version of the `ket-pet-study-coach` skill.
 - [ ] Open official A2 Key for Schools preparation materials.
-- [ ] Complete A2 Reading & Writing sample tasks, or a selected part if time is limited.
-- [ ] Complete A2 Listening sample tasks, or a selected part if time is limited.
+- [ ] Follow `diagnostics/a2-ket-fast-diagnostic-tonight.md`.
+- [ ] Complete A2 Reading & Writing sample test, target time 60 minutes.
+- [ ] Complete A2 Listening sample test, target time about 30 minutes.
 - [ ] Record material used, correct/total, time used, and child mood in `diagnostics/results/2026-06-initial-diagnostic.md`.
 
 Completion notes:
 
 ```text
-Parent/Codex setup was completed. Later the same day, the plan changed to start fast A2/KET diagnostic because Xinyue has long-term English learning experience and relatively strong listening/speaking.
+Parent/Codex setup was completed. Later the same day, the plan changed to Plan A: complete A2/KET Reading & Writing plus Listening tonight because Xinyue has long-term English learning experience and relatively strong listening/speaking.
 ```
 
 ### 2026-06-09 Tuesday
