@@ -8,8 +8,9 @@ This file is the action board for the 2026 Cambridge English plan.
 
 - [x] Create GitHub repository structure.
 - [x] Add full 2026 study plan.
-- [ ] Create initial diagnostic table.
-- [ ] Create `ket-pet-study-coach` skill.
+- [x] Create initial diagnostic table.
+- [x] Create repository operating files for daily tracking.
+- [x] Create `ket-pet-study-coach` skill.
 - [ ] Run the first diagnostic week.
 - [ ] Decide route on 2026-06-24.
 
@@ -189,9 +190,9 @@ Dates: 2026-12-09 to 2026-12-31
 
 ## Tooling Tasks
 
-- [ ] Create diagnostic table.
-- [ ] Design `ket-pet-study-coach` skill scope.
-- [ ] Draft skill instructions.
+- [x] Create diagnostic table.
+- [x] Design `ket-pet-study-coach` skill scope.
+- [x] Draft skill instructions.
 - [ ] Test skill on weekly planning.
 - [ ] Test skill on writing feedback.
 - [ ] Test skill on speaking script generation.
