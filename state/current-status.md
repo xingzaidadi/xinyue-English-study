@@ -19,8 +19,8 @@ Last updated: 2026-06-08
 |---|---|
 | Phase | Phase 0: Setup |
 | Date range | 2026-06-08 to 2026-06-09 |
-| Current goal | Prepare materials and start the initial diagnostic workflow. |
-| Next decision date | 2026-06-24 |
+| Current goal | Start fast A2/KET diagnostic because Xinyue has long-term English learning experience and relatively strong listening/speaking. |
+| Next decision date | after A2 fast diagnostic evidence is collected |
 
 ## Active Decision
 
@@ -43,8 +43,9 @@ Decision rule:
 
 1. Prepare official A2 Key for Schools diagnostic materials.
 2. Prepare official B1 Preliminary for Schools materials for possible Week 2 use.
-3. Run the initial two-week diagnostic from 2026-06-10 to 2026-06-23.
-4. Protect motivation and avoid early over-testing.
+3. Run fast A2/KET diagnostic first.
+4. Use selected B1/PET tasks only if A2/KET evidence is clearly strong.
+5. Protect motivation and avoid early over-testing.
 
 ## Constraints
 

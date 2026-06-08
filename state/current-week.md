@@ -2,11 +2,11 @@
 
 Week: 2026-06-08 to 2026-06-14
 
-Phase: Setup and initial A2 diagnostic start
+Phase: Setup and fast A2/KET diagnostic start
 
 ## Weekly Goal
 
-Prepare the diagnostic workflow and begin the A2 Key for Schools diagnostic without pressure.
+Prepare the diagnostic workflow and begin a fast A2/KET diagnostic because Xinyue has long-term English learning experience and relatively strong listening/speaking.
 
 ## Rules For This Week
 
@@ -19,9 +19,9 @@ Prepare the diagnostic workflow and begin the A2 Key for Schools diagnostic with
 
 ### 2026-06-08 Monday
 
-Status: completed for parent/Codex setup; no child study task
+Status: parent/Codex setup completed; child fast A2/KET diagnostic added
 
-Estimated time: 20-30 minutes, parent only
+Estimated time: 75-100 minutes if doing Reading & Writing plus Listening; 35-50 minutes if splitting into a shorter session
 
 Tasks:
 
@@ -30,11 +30,15 @@ Tasks:
 - [x] Add diagnostic guide and record template.
 - [x] Add daily tracking files.
 - [x] Add first version of the `ket-pet-study-coach` skill.
+- [ ] Open official A2 Key for Schools preparation materials.
+- [ ] Complete A2 Reading & Writing sample tasks, or a selected part if time is limited.
+- [ ] Complete A2 Listening sample tasks, or a selected part if time is limited.
+- [ ] Record material used, correct/total, time used, and child mood in `diagnostics/results/2026-06-initial-diagnostic.md`.
 
 Completion notes:
 
 ```text
-This was a setup day only. Xinyue did not have a study task today.
+Parent/Codex setup was completed. Later the same day, the plan changed to start fast A2/KET diagnostic because Xinyue has long-term English learning experience and relatively strong listening/speaking.
 ```
 
 ### 2026-06-09 Tuesday
