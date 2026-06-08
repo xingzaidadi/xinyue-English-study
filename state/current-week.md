@@ -19,21 +19,22 @@ Prepare the diagnostic workflow and begin the A2 Key for Schools diagnostic with
 
 ### 2026-06-08 Monday
 
-Status: planned
+Status: completed for parent/Codex setup; no child study task
 
 Estimated time: 20-30 minutes, parent only
 
 Tasks:
 
-- [ ] Bookmark official A2 Key for Schools preparation page.
-- [ ] Bookmark official B1 Preliminary for Schools preparation page.
-- [ ] Open `diagnostics/initial-diagnostic-table.md` and review the workflow.
-- [ ] Prepare recording device for speaking.
+- [x] Create repository planning structure.
+- [x] Add yearly plan.
+- [x] Add diagnostic guide and record template.
+- [x] Add daily tracking files.
+- [x] Add first version of the `ket-pet-study-coach` skill.
 
 Completion notes:
 
 ```text
-
+This was a setup day only. Xinyue did not have a study task today.
 ```
 
 ### 2026-06-09 Tuesday
@@ -47,7 +48,7 @@ Tasks:
 - [ ] Prepare answer recording method.
 - [ ] Prepare a copy of `diagnostics/diagnostic-record-template.md` for the June result.
 - [ ] Choose the daily study window.
-- [ ] Explain to Xinyue that the next two weeks are for finding the right level, not for ranking her.
+- [ ] Explain to Xinyue that the diagnostic is for finding the right level, not for ranking her.
 
 Completion notes:
 

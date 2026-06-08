@@ -51,7 +51,23 @@ Official links:
 
 ## 4. Diagnostic Overview
 
-Default schedule:
+The diagnostic has two modes.
+
+Fast mode:
+
+Use this when the family wants an initial route decision quickly. It usually takes 1-3 focused sessions.
+
+| Session | Focus | Result |
+|---|---|---|
+| Session 1 | A2 Reading & Writing + A2 Listening | Decide whether A2 is clearly difficult, manageable, or easy. |
+| Session 2 | A2 Writing + A2 Speaking | Check output ability and emotional load. |
+| Session 3, optional | Selected B1 tasks | Use only if A2 is clearly easy or mostly easy. |
+
+Fast mode can produce a practical initial decision if the evidence is clear.
+
+Default two-week schedule:
+
+Use this when results are mixed, the child is tired, or the family wants a calmer process with more observation.
 
 | Week | Focus | Result |
 |---|---|---|
@@ -63,6 +79,12 @@ Recommended total time:
 - Weekday session: 30-50 minutes.
 - Weekend speaking/writing review: 30-60 minutes.
 - Stop early if emotional load is too high.
+
+Decision timing:
+
+- If A2 is clearly difficult, the route can be decided after the first A2 reading/listening/writing/speaking evidence.
+- If A2 is clearly easy, do selected B1 tasks before deciding whether direct B1 is realistic.
+- If results are mixed or the child is unusually tired or resistant, use the full two-week schedule before deciding.
 
 ## 5. Background Record
 
@@ -485,7 +507,7 @@ Record:
 
 ## 10. Final Route Decision
 
-Complete this after two weeks.
+Complete this after fast-mode diagnostic if evidence is clear, or after two weeks if evidence is mixed.
 
 ### Evidence Summary
 
